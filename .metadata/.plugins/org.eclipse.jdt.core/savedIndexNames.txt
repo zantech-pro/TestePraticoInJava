@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\simone\OneDrive\Estacio_Cursos\4 - Periodo\Materia 1 - Introdução a POO em Java\Modulo 2 - Herança e Polimorfismo\testePraticoProgramacao\.metadata\.plugins\org.eclipse.jdt.core
+2142640191.index
+3388430624.index
+2573939499.index
+1865797976.index
